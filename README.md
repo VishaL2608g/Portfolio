@@ -7,7 +7,7 @@ PROJECTS ON:-[PYTHON,DATA SCIENCE,MACHINE LEARNING/AI,DASHBOARD]
 
 [PYTHON]:- (https://github.com/VishaL2608g/PYTHON)
 
-[DATA SCIENCE]:- (https://github.com/VishaL2608g/Data_Analysis)
+[DATA SCIENCE]:-(https://github.com/VishaL2608g/Data_Analysis)
 
 [MACHINE LEARNING] :- (https://github.com/VishaL2608g/MACHINE-LEARNING-AI)
 

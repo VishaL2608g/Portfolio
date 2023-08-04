@@ -1,4 +1,4 @@
-My Potfolio
+[My Potfolio]
 
 [ABOUT ME] (https://github.com/VishaL2608g)
 
